@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains layout of parking lot.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-104-architecture-studio-intentions-spring-2005/63e89812a2f05d3437fce2f1358eff85_1parking_lot.pdf
+file: /media/courses/4-104-architecture-studio-intentions-spring-2005/63e89812a2f05d3437fce2f1358eff85_1parking_lot.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 1parking_lot.pdf
 uid: 63e89812-a2f0-5d34-37fc-e2f1358eff85

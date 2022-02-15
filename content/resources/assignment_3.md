@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Free-hand, scaled drawing assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-104-architecture-studio-intentions-spring-2005/4387af062c6f793885278d46fb71eab5_assignment_3.pdf
+file: /media/courses/4-104-architecture-studio-intentions-spring-2005/4387af062c6f793885278d46fb71eab5_assignment_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment_3.pdf
 uid: 4387af06-2c6f-7938-8527-8d46fb71eab5

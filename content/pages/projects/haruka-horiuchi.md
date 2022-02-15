@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 95bf3818-2dfe-24e2-c282-e3d7612cb07c
 title: Haruka Horiuchi
 uid: 439b7506-ea98-5f24-acf8-b385e7b071da
 ---
 
 ### Haruka Horiuchi
-{{< image-gallery id="439b7506-ea98-5f24-acf8-b385e7b071da_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-104-architecture-studio-intentions-spring-2005/" >}}
+{{< image-gallery id="439b7506-ea98-5f24-acf8-b385e7b071da_nanogallery2" baseUrl="/courses/4-104-architecture-studio-intentions-spring-2005/" >}}
 {{< image-gallery-item href="f61a1d247e85bf5d16ab87da42be62d6_1.jpg" data-ngdesc="The seemingly enclosed third space." text="The seemingly enclosed third space." >}}
 {{< image-gallery-item href="40d77fbda80940a43bd98c7597ae9123_2.jpg" data-ngdesc="A private opening in the third space." text="A private opening in the third space." >}}
 {{< image-gallery-item href="3e2ecb973ff6f159d0e0520312c59caa_3.jpg" data-ngdesc="The view from above, into the third space." text="The view from above, into the third space." >}}
