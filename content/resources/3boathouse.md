@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 83d4b0e3-06a0-afd0-d77a-aecdc0b72504
 resourcetype: Document
 title: 3boathouse.pdf
 uid: 72a0431b-2879-51ad-c594-90746c03a301

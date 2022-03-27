@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 83d4b0e3-06a0-afd0-d77a-aecdc0b72504
 resourcetype: Document
 title: 5metropol_warhse.pdf
 uid: 45fcd191-b626-9a9c-d694-d27512b68e39
