@@ -5,6 +5,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/5dff6990ab8800bb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2student_center.pdf
 uid: 5dff6990-ab88-00bb-c6e6-84e300b0b50d
 ---
 This resource contains layout of student center.
-

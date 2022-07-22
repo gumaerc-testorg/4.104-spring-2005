@@ -6,6 +6,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/1b57aebbb57f1857
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment_7.pdf
 uid: 1b57aebb-b57f-1857-191f-fc9c31482c7b
 ---
 This assignment asks students to continue the previous "Third Spaces" assignment.
-

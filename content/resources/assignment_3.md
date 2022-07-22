@@ -5,6 +5,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/4387af062c6f7938
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment_3.pdf
 uid: 4387af06-2c6f-7938-8527-8d46fb71eab5
 ---
 Free-hand, scaled drawing assignment.
-

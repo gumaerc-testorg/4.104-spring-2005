@@ -5,6 +5,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/45fcd191b6269a9c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 5metropol_warhse.pdf
 uid: 45fcd191-b626-9a9c-d694-d27512b68e39
 ---
 This resource contains layout of metropolitan storage warehouse.
-

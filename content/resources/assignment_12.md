@@ -8,6 +8,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/e9fb4fa7b663da36
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: e9fb4fa7-b663-da36-8072-af5185c2de1d
 ---
 This assignment asks students to mock-up the final review materials for their project, and continue to build models and
 finish drawings for the final review.
-

@@ -5,6 +5,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/00e81af5c125e14e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: siteoverview.pdf
 uid: 00e81af5-c125-e14e-5124-a901d0e560b5
 ---
 This handout contains the MIT site overview for the design project.
-

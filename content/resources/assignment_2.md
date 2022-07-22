@@ -6,6 +6,7 @@ file: /courses/4-104-architecture-studio-intentions-spring-2005/2afefd6e13525680
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment_2.pdf
 uid: 2afefd6e-1352-5680-8e0c-f6df1b1250e2
 ---
 This assignment asks students to write an essy on the organization of future projects.
-
