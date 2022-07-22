@@ -1,11 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Studio Images
 uid: a8013ce4-8a7d-107e-e872-1b2da4f597d1
 ---
 
 The culture of the studio is an important aspect of architectural teaching, separating studio classes from lecture classes. These images attempt to give some insights into that culture. All the images are courtesy of Leo Shieh, and used with permission.
-{{< image-gallery id="a8013ce4-8a7d-107e-e872-1b2da4f597d1_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-104-architecture-studio-intentions-spring-2005/" >}}
+{{< image-gallery id="a8013ce4-8a7d-107e-e872-1b2da4f597d1_nanogallery2" baseUrl="/courses/4-104-architecture-studio-intentions-spring-2005/" >}}
 {{< image-gallery-item href="bcf8420ec677fad9ab36ec0e08e5a502_01.jpg" data-ngdesc="An overview of the studio." text="An overview of the studio." >}}
 {{< image-gallery-item href="656ae37ebccc5588415e745095d45f2b_02.jpg" data-ngdesc="The partions that separate the workspaces." text="The partions that separate the workspaces." >}}
 {{< image-gallery-item href="1ca39414dac43b469bc4362c3105383a_03.jpg" data-ngdesc="Inspiration." text="Inspiration." >}}
