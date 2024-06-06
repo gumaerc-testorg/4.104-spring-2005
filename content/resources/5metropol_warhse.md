@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains layout of metropolitan storage warehouse.
 file: /courses/4-104-architecture-studio-intentions-spring-2005/45fcd191b6269a9cd694d27512b68e39_5metropol_warhse.pdf
+file_size: 68344
 file_type: application/pdf
 learning_resource_types:
 - Assignments
