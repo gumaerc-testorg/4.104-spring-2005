@@ -3,6 +3,7 @@ content_type: resource
 description: This assignment asks students to continue the previous "Third Spaces"
   assignment.
 file: /courses/4-104-architecture-studio-intentions-spring-2005/1b57aebbb57f1857191ffc9c31482c7b_assignment_7.pdf
+file_size: 80412
 file_type: application/pdf
 learning_resource_types:
 - Assignments

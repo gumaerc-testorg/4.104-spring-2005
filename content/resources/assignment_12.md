@@ -5,6 +5,7 @@ description: 'This assignment asks students to mock-up the final review material
 
   finish drawings for the final review.'
 file: /courses/4-104-architecture-studio-intentions-spring-2005/e9fb4fa7b663da368072af5185c2de1d_assignment_12.pdf
+file_size: 52624
 file_type: application/pdf
 learning_resource_types:
 - Assignments
