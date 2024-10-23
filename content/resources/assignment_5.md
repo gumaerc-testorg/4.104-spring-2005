@@ -2,7 +2,7 @@
 content_type: resource
 description: This is the first design problem of the course. Students are asked to
   prepare a series of sketches, plans, and designs.
-file: /courses/4-104-architecture-studio-intentions-spring-2005/c7feafe9da471724b1548a0f0561a4d6_assignment_5.pdf
+file: /ol-ocw-studio-app/courses/4-104-architecture-studio-intentions-spring-2005/c7feafe9da471724b1548a0f0561a4d6_assignment_5.pdf
 file_size: 64002
 file_type: application/pdf
 learning_resource_types:

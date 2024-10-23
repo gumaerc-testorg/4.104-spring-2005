@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains layout of student center.
-file: /courses/4-104-architecture-studio-intentions-spring-2005/5dff6990ab8800bbc6e684e300b0b50d_2student_center.pdf
+file: /ol-ocw-studio-app/courses/4-104-architecture-studio-intentions-spring-2005/5dff6990ab8800bbc6e684e300b0b50d_2student_center.pdf
 file_size: 96750
 file_type: application/pdf
 learning_resource_types:
