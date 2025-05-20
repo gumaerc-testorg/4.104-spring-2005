@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains layout of parking lot.
-file: /ol-ocw-studio-app/courses/4-104-architecture-studio-intentions-spring-2005/63e89812a2f05d3437fce2f1358eff85_1parking_lot.pdf
+file: /courses/4-104-architecture-studio-intentions-spring-2005/63e89812a2f05d3437fce2f1358eff85_1parking_lot.pdf
 file_size: 56269
 file_type: application/pdf
 learning_resource_types:
