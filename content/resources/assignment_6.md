@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This assignment asks students to build a model.
-file: /ol-ocw-studio-app/courses/4-104-architecture-studio-intentions-spring-2005/99811edbf9f0ab91345a6e0b05b81577_assignment_6.pdf
+file: /courses/4-104-architecture-studio-intentions-spring-2005/99811edbf9f0ab91345a6e0b05b81577_assignment_6.pdf
 file_size: 55409
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This assignment asks students to write an essy on the organization of
   future projects.
-file: /ol-ocw-studio-app/courses/4-104-architecture-studio-intentions-spring-2005/2afefd6e135256808e0cf6df1b1250e2_assignment_2.pdf
+file: /courses/4-104-architecture-studio-intentions-spring-2005/2afefd6e135256808e0cf6df1b1250e2_assignment_2.pdf
 file_size: 55585
 file_type: application/pdf
 learning_resource_types:
