@@ -3,7 +3,7 @@ content_type: resource
 description: This assignment asks students to explore a variety of methods for relating
   their project to the building site, and to begin to formulate a conceptual attitude
   with regards to their project.
-file: /courses/4-104-architecture-studio-intentions-spring-2005/6a2c3dbdc57e89631b2473050b9db6c5_assignment_10.pdf
+file: /ol-ocw-studio-app/courses/4-104-architecture-studio-intentions-spring-2005/6a2c3dbdc57e89631b2473050b9db6c5_assignment_10.pdf
 file_size: 72823
 file_type: application/pdf
 learning_resource_types:
